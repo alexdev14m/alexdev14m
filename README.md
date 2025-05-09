@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @alexdev14m
-- 👀 I’m interested in Developing on Java, C++, C, Arduino and Lua
-- 🌱 I’m currently learning Java, C and Arduino
-- 💞️ I’m looking to collaborate on Minecraft modifications development
+- 👀 I’m interested in Developing on Java, C++, C.
+- 🌱 I’m currently learning OpenGL with C++
+- 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me aleksa.spasic2@icloud.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I suk at java
+- ⚡ Fun fact: Im still in middle school
 
 <!---
 alexdev14m/alexdev14m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
